@@ -112,8 +112,9 @@ button.btn.btn-primary{
     margin: 20px;
 }
 
-img{
+.img-fluid{
     margin-bottom: 20px;
+    /* height: 300 !important; */
 }
 
 div.col-lg-6 {
